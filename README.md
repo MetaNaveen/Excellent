@@ -10,10 +10,13 @@ This project is created to provide utility tools especially based on Excel to su
   - **USAGE:**
     - Open the xlsx file with spreadsheet software (only MS Excel is supported)
     - Update the cells with blue colored background
-    - You will see the updated view of your portfolio.
+    - You will see the updated view of your portfolio
+
+  - **Notes:**
+    - Use **Excellent.xlsm** file to use macro (using [VBA](https://learn.microsoft.com/en-us/office/vba/api/overview/excel)) features. (Eg: Print button in Dashboard required Macro enabled version)
 
 **AUTHOR(S):** Naveen Kumar
 
-**SPECIAL THANKS:** Friends and Colleagues for testing and providing valuable feedbacks.
+**SPECIAL THANKS:** Friends and Colleagues for testing and providing valuable feedbacks
 
 *Kindly support the project by providing your feedbacks by creating an [issue](https://github.com/MetaNaveen/Excellent/issues) at Github.*
